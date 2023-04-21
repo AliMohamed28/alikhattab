@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alikhattab/static/css/main.afe6886e.css",
-    "main.js": "/alikhattab/static/js/main.7f926695.js",
+    "main.js": "/alikhattab/static/js/main.02fe8363.js",
     "static/js/415.4d6acbeb.chunk.js": "/alikhattab/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/alikhattab/static/js/787.1ed0c42c.chunk.js",
     "static/media/CV.pdf": "/alikhattab/static/media/CV.ec7dda0462a2e6fb0283.pdf",
@@ -11,7 +11,6 @@
     "static/media/about.png": "/alikhattab/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/therapychatbot.png": "/alikhattab/static/media/therapychatbot.11f5952f94caa57622e5.png",
     "static/media/code-cafe.png": "/alikhattab/static/media/code-cafe.8fd09d3a4dd312adb2fc.png",
-    "static/media/logo.jpg": "/alikhattab/static/media/logo.7b72b34663803da7a4e9.jpg",
     "static/media/ccfraud.jpg": "/alikhattab/static/media/ccfraud.fe40cae7ae1beb5c63da.jpg",
     "static/media/cms.png": "/alikhattab/static/media/cms.0f1b2cb44cd7c3697f7f.png",
     "static/media/home-bg.jpg": "/alikhattab/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -19,12 +18,12 @@
     "static/media/pre.svg": "/alikhattab/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/alikhattab/index.html",
     "main.afe6886e.css.map": "/alikhattab/static/css/main.afe6886e.css.map",
-    "main.7f926695.js.map": "/alikhattab/static/js/main.7f926695.js.map",
+    "main.02fe8363.js.map": "/alikhattab/static/js/main.02fe8363.js.map",
     "415.4d6acbeb.chunk.js.map": "/alikhattab/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/alikhattab/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afe6886e.css",
-    "static/js/main.7f926695.js"
+    "static/js/main.02fe8363.js"
   ]
 }
