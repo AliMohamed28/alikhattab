@@ -1,31 +1,30 @@
 {
   "files": {
-    "main.css": "/alikhattab/static/css/main.afe6886e.css",
-    "main.js": "/alikhattab/static/js/main.3c01d357.js",
+    "main.css": "/alikhattab/static/css/main.0e53b615.css",
+    "main.js": "/alikhattab/static/js/main.a528a02a.js",
     "static/js/415.4d6acbeb.chunk.js": "/alikhattab/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/alikhattab/static/js/787.1ed0c42c.chunk.js",
-    "static/media/CV.pdf": "/alikhattab/static/media/CV.ec7dda0462a2e6fb0283.pdf",
+    "static/media/avatar.svg": "/alikhattab/static/media/avatar.7950d5652839ba2c53283e2c85ecc682.svg",
     "static/media/finance.png": "/alikhattab/static/media/finance.b0bce2d4554fd4a89d57.png",
     "static/media/leaf.png": "/alikhattab/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/alikhattab/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/GPT.png": "/alikhattab/static/media/GPT.a18efc47c20e296168dd.png",
-    "static/media/home-main.svg": "/alikhattab/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/CV.pdf": "/alikhattab/static/media/CV.f146967f9ddf75a90973.pdf",
     "static/media/about.png": "/alikhattab/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-main.png": "/alikhattab/static/media/home-main.f7a134dfa2b22c20bede.png",
     "static/media/therapychatbot.png": "/alikhattab/static/media/therapychatbot.11f5952f94caa57622e5.png",
     "static/media/code-cafe.png": "/alikhattab/static/media/code-cafe.8fd09d3a4dd312adb2fc.png",
     "static/media/ccfraud.jpg": "/alikhattab/static/media/ccfraud.fe40cae7ae1beb5c63da.jpg",
     "static/media/cms.png": "/alikhattab/static/media/cms.0f1b2cb44cd7c3697f7f.png",
-    "static/media/home-bg.jpg": "/alikhattab/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/alikhattab/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/alikhattab/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/alikhattab/index.html",
-    "main.afe6886e.css.map": "/alikhattab/static/css/main.afe6886e.css.map",
-    "main.3c01d357.js.map": "/alikhattab/static/js/main.3c01d357.js.map",
+    "main.0e53b615.css.map": "/alikhattab/static/css/main.0e53b615.css.map",
+    "main.a528a02a.js.map": "/alikhattab/static/js/main.a528a02a.js.map",
     "415.4d6acbeb.chunk.js.map": "/alikhattab/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/alikhattab/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afe6886e.css",
-    "static/js/main.3c01d357.js"
+    "static/css/main.0e53b615.css",
+    "static/js/main.a528a02a.js"
   ]
 }
