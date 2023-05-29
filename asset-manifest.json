@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alikhattab/static/css/main.0e53b615.css",
-    "main.js": "/alikhattab/static/js/main.a528a02a.js",
+    "main.js": "/alikhattab/static/js/main.6ccf11cd.js",
     "static/js/415.4d6acbeb.chunk.js": "/alikhattab/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/alikhattab/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.svg": "/alikhattab/static/media/avatar.7950d5652839ba2c53283e2c85ecc682.svg",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/alikhattab/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/alikhattab/index.html",
     "main.0e53b615.css.map": "/alikhattab/static/css/main.0e53b615.css.map",
-    "main.a528a02a.js.map": "/alikhattab/static/js/main.a528a02a.js.map",
+    "main.6ccf11cd.js.map": "/alikhattab/static/js/main.6ccf11cd.js.map",
     "415.4d6acbeb.chunk.js.map": "/alikhattab/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/alikhattab/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e53b615.css",
-    "static/js/main.a528a02a.js"
+    "static/js/main.6ccf11cd.js"
   ]
 }
